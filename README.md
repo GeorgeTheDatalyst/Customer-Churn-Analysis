@@ -162,13 +162,14 @@ Key checks included:
 
 These insights informed the data cleaning process and guided feature engineering for churn modeling and dashboard design.
 
-### PowerBI Connection.
+## PowerBI Connection.
 This cleaned table was then connected to Power BI using the inbuilt data import funtionalities for further analysis and visualization.
 
-
+---
 # 📊 Customer Churn Analysis
 
 This project analyzes customer churn patterns in a banking dataset to uncover key drivers of attrition and support data-driven retention strategies. Using visualizations and segmentation, it highlights demographic and financial factors influencing churn.
+---
 
 ## 🔍 Key Insights
 
