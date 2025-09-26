@@ -161,6 +161,8 @@ Key checks included:
 - Age and balance range exploration to understand customer demographics
 
 These insights informed the data cleaning process and guided feature engineering for churn modeling and dashboard design.
+
+### PowerBI Connection.
 This cleaned table was then connected to Power BI using the inbuilt data import funtionalities for further analysis and visualization.
 
 
