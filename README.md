@@ -164,7 +164,7 @@ These insights informed the data cleaning process and guided feature engineering
 
 ---
 # PowerBI Connection.
-This cleaned table was then connected to Power BI using the inbuilt data import funtionalities for further analysis and visualization.
+This cleaned table was then connected to Power BI using the inbuilt data import funtionalities by connecting SQL Server with PowerBI for further analysis and visualization.
 
 ---
 # 📊 Customer Churn Analysis
