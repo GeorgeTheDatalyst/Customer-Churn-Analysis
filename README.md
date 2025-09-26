@@ -171,6 +171,9 @@ This cleaned table was then connected to Power BI using the inbuilt data import 
 
 This project analyzes customer churn patterns in a banking dataset to uncover key drivers of attrition and support data-driven retention strategies. Using visualizations and segmentation, it highlights demographic and financial factors influencing churn.
 ---
+--
+View Project Live: https://app.powerbi.com/groups/me/reports/89aa65c5-1cbe-4940-898c-63b494d6bc00/f99b262ab094e4be0f74?experience=power-bi
+--
 
 ## 🔍 Key Insights
 
